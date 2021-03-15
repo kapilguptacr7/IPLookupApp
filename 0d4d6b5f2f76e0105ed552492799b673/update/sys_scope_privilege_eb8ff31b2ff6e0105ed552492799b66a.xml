@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="IPLookup">0d4d6b5f2f76e0105ed552492799b673</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 17:10:13</sys_created_on>
+        <sys_id>eb8ff31b2ff6e0105ed552492799b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptableRESTResponse.getStatusCode</sys_name>
+        <sys_package display_value="IPLookup" source="x_580073_iplookup">0d4d6b5f2f76e0105ed552492799b673</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">0d4d6b5f2f76e0105ed552492799b673</sys_scope>
+        <sys_update_name>sys_scope_privilege_eb8ff31b2ff6e0105ed552492799b66a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 17:10:13</sys_updated_on>
+        <target_name>ScriptableRESTResponse.getStatusCode</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
